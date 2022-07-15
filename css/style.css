@@ -108,4 +108,7 @@ nav .nav-items {
   .phone-img {
     display: none;
   }
+  .google-play-img {
+    height: 45px;
+  }
 }
